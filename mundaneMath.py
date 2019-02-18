@@ -1,4 +1,7 @@
-# mundane Math adds all the even numbers between 1 and 100
+"""
+This file adds all the even numbers between 1 and 100
+for weekly challenge 3
+"""
 import numpy
 
 evennumbers = numpy.arange(2, 102, 2)
