@@ -4,8 +4,8 @@ for weekly challenge 3
 """
 import numpy
 
-evennumbers = numpy.arange(2, 102, 2)
+even_numbers = numpy.arange(2, 102, 2)
 
-answer = sum(evennumbers)
+sum_even_numbers = sum(even_numbers)
 
-print("The sum of even number between 1 and 100 is {0}".format(str(answer)))
+print("The sum of even number between 1 and 100 is {0}".format(str(sum_even_numbers)))
